@@ -71,7 +71,7 @@ class _AppWithCubitState extends State<AppWithCubit> {
       ],
       child: MaterialApp.router(
         key: navigatorKey,
-        restorationScopeId: 'app',
+        restorationScopeId: 'App',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
           useMaterial3: false,
