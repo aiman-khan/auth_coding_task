@@ -1,0 +1,48 @@
+name: aims_coding_task
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  go_router: ^6.2.0
+
+  #state-management
+  flutter_bloc: ^8.1.6
+  equatable: ^2.0.5
+
+  #DI
+  get_it: ^7.2.0
+  injectable: ^2.1.0
+
+  cupertino_icons: ^1.0.6
+  flutter_screenutil: ^5.9.3
+  logger: ^2.4.0
+  google_fonts: ^6.2.1
+
+  #firebase
+  firebase_core: ^3.3.0
+  firebase_auth: ^5.1.4
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+  build_runner: ^2.3.3
+  injectable_generator: ^2.1.4
+
+
+flutter:
+  uses-material-design: true
+  generate: true
+
+
+
