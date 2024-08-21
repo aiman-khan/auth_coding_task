@@ -40,7 +40,7 @@ The project follows the separation of concerns by dividing the code into the fol
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-repo/flutter-login-cubit-firebase.git
+   git clone https://github.com/aiman-khan/auth_coding_task.git
    ```
 
 2. **Install dependencies**:
