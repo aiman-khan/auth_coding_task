@@ -67,3 +67,8 @@ The project follows the separation of concerns by dividing the code into the fol
 ## Figma Design
 
 The design was created based on the [Figma design](https://www.figma.com/design/0xIxHweYnIAOiSO9gnJhuq/Flutter-Coding-Task?node-id=0-1&t=yhgDcLdS2ZFoHLyN-1) provided for this task.
+
+## Screenshots
+
+![image](https://github.com/user-attachments/assets/7e680714-26f9-4db1-b90d-59dacef4a583)
+
