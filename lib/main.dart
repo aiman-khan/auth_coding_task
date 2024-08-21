@@ -66,9 +66,8 @@ class _AppWithCubitState extends State<AppWithCubit> {
     return MultiBlocProvider(
       providers: [
         BlocProvider<LoginCubit>(
-          create: (context) => sl<LoginCubit>(), // Providing the LoginCubit
+          create: (context) => sl<LoginCubit>(),
         ),
-        // Add other Cubit providers here if needed
       ],
       child: MaterialApp.router(
         key: navigatorKey,
